@@ -1,0 +1,21 @@
+userID,firstName,lastname,email,gender
+1, First Name: John, Last Name: Smith, Email: john.smith@example.com, Gender: Male
+2, First Name: Emily, Last Name: Johnson, Email: emily.johnson@example.com, Gender: Female
+3, First Name: Michael, Last Name: Williams, Email: michael.williams@example.com, Gender: Male
+4, First Name: Sarah, Last Name: Brown, Email: sarah.brown@example.com, Gender: Female
+5, First Name: David, Last Name: Jones, Email: david.jones@example.com, Gender: Male
+6, First Name: Jessica, Last Name: Davis, Email: jessica.davis@example.com, Gender: Female
+7, First Name: Christopher, Last Name: Miller, Email: christopher.miller@example.com, Gender: Male
+8, First Name: Ashley, Last Name: Wilson, Email: ashley.wilson@example.com, Gender: Female
+9, First Name: Matthew, Last Name: Moore, Email: matthew.moore@example.com, Gender: Male
+10, First Name: Amanda, Last Name: Taylor, Email: amanda.taylor@example.com, Gender: Female
+11, First Name: Joshua, Last Name: Anderson, Email: joshua.anderson@example.com, Gender: Male
+12, First Name: Elizabeth, Last Name: Martinez, Email: elizabeth.martinez@example.com, Gender: Female
+13, First Name: Ryan, Last Name: Hernandez, Email: ryan.hernandez@example.com, Gender: Male
+14, First Name: Lauren, Last Name: Gonzalez, Email: lauren.gonzalez@example.com, Gender: Female
+15, First Name: Kevin, Last Name: Perez, Email: kevin.perez@example.com, Gender: Male
+16, First Name: Megan, Last Name: Torres, Email: megan.torres@example.com, Gender: Female
+17, First Name: Jason, Last Name: Flores, Email: jason.flores@example.com, Gender: Male
+18, First Name: Rachel, Last Name: Ramirez, Email: rachel.ramirez@example.com, Gender: Female
+19, First Name: Eric, Last Name: Cruz, Email: eric.cruz@example.com, Gender: Male
+20, First Name: Samantha, Last Name: Lewis, Email: samantha.lewis@example.com, Gender: Female
